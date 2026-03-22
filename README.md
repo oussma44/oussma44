@@ -1,10 +1,9 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0d1117&height=140&section=header&text=Oussama%20Touate&fontSize=48&fontColor=e11d48&animation=fadeIn&fontAlignY=40&desc=Big%20Data%20%26%20AI%20Student%20%E2%80%A2%20Future%20Machine%20Learning%20Engineer&descAlignY=64&descSize=15&descColor=b8c1cc"/>
+# Oussama Touate
+### Big Data & AI Student • Future Machine Learning Engineer
 
-<h1>Hi, I'm Oussama 👋</h1>
 <p>
-  <strong>Big Data &amp; AI Student</strong><br/>
   Building from <strong>learning projects</strong> to <strong>portfolio-ready engineering work</strong>.
 </p>
 
@@ -22,7 +21,7 @@
 
 ## 👨‍💻 About Me
 
-I’m a **Big Data &amp; AI student** from **Meknès, Morocco**, building toward **production-minded machine learning engineering**.
+I’m a **Big Data & AI student** from **Meknès, Morocco**, building toward **production-minded machine learning engineering**.
 
 What I care about most:
 - learning machine learning the right way: foundations, validation, and practical habits
@@ -117,6 +116,8 @@ What I care about most:
 
 </div>
 
+---
+
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0d1117&height=90&section=footer&fontColor=e11d48"/>
+Thanks for visiting my profile.
 </div>
