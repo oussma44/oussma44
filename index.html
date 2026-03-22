@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Oussama Touate | Big Data & AI Student</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700;800&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet">
+  <style>
+    :root { --bg:#050812; --panel:rgba(10,15,26,.88); --line:rgba(255,255,255,.08); --text:#f4f7fb; --muted:#9aa6b2; --accent:#ff1f5b; --shadow:rgba(255,31,91,.34); }
+    *{box-sizing:border-box} html{scroll-behavior:smooth}
+    body{margin:0;min-height:100vh;font-family:Inter,system-ui,sans-serif;color:var(--text);background:radial-gradient(circle at 50% 24%, rgba(255,31,91,.12), transparent 34%),radial-gradient(circle at 18% 18%, rgba(88,106,255,.08), transparent 28%),linear-gradient(180deg,#07101c 0%,#050812 55%,#04070f 100%);overflow-x:hidden}
+    body::before,body::after{content:"";position:fixed;inset:0;pointer-events:none;z-index:0}
+    body::before{background-image:linear-gradient(to right, rgba(255,255,255,.035) 1px, transparent 1px),linear-gradient(to bottom, rgba(255,255,255,.03) 1px, transparent 1px);background-size:64px 64px;mask-image:linear-gradient(to bottom, rgba(255,255,255,.28), transparent 72%)}
+    body::after{background:linear-gradient(180deg, rgba(255,255,255,.03), transparent 22%)}
+    .shell{position:relative;z-index:1;width:min(1200px,calc(100% - 48px));margin:0 auto}.hero{min-height:100vh;display:grid;place-items:center;padding:40px 0 24px}
+    .hero-box{width:100%;border:1px solid var(--line);background:linear-gradient(180deg, rgba(5,8,18,.68), rgba(5,8,18,.92));box-shadow:0 24px 80px rgba(0,0,0,.38);padding:clamp(56px,9vw,110px) 24px 48px;text-align:center;position:relative;overflow:hidden}
+    .hero-box::before{content:"";position:absolute;inset:0;background:radial-gradient(circle at 50% 20%, rgba(255,31,91,.08), transparent 34%);pointer-events:none}
+    .eyebrow{display:inline-flex;align-items:center;gap:12px;letter-spacing:.22em;text-transform:uppercase;color:var(--muted);font-size:12px;margin-bottom:28px}.eyebrow::before,.eyebrow::after{content:"";width:46px;height:1px;background:var(--line)}
+    .name{margin:0;font-size:clamp(58px,10vw,112px);line-height:.95;letter-spacing:-.05em;font-weight:800;color:var(--accent);text-shadow:0 0 34px rgba(255,31,91,.08)}
+    .subtitle{margin:6px 0 0;font-size:clamp(22px,3vw,30px);color:var(--accent);font-weight:500}
+    .typing-wrap{margin:42px auto 0;max-width:620px;min-height:42px;text-align:left;font-family:"Space Mono",monospace;font-size:clamp(18px,2.4vw,24px);font-weight:700;color:var(--accent);letter-spacing:.06em}
+    .typing-line{display:inline-flex;align-items:center;flex-wrap:wrap;gap:10px}.cursor{display:inline-block;width:11px;height:1.1em;background:var(--accent);box-shadow:0 0 18px var(--shadow);animation:blink 1s step-end infinite;vertical-align:-.12em}
+    .hero-copy{width:min(760px,100%);margin:24px auto 0;color:var(--muted);font-size:16px;line-height:1.9}
+    .stats-row{margin-top:46px;display:flex;justify-content:center;gap:16px;flex-wrap:wrap}.stat{min-width:220px;display:flex;align-items:stretch;border:1px solid var(--line);background:rgba(255,255,255,.035);backdrop-filter:blur(10px);overflow:hidden}
+    .stat-label,.stat-value{font-family:"Space Mono",monospace;font-size:14px;letter-spacing:.16em;text-transform:uppercase}.stat-label{flex:1;padding:16px 18px;color:#f8fafc;display:flex;justify-content:center;align-items:center;background:rgba(255,255,255,.03)}.stat-value{padding:16px 22px;background:var(--accent);color:white;display:grid;place-items:center;min-width:76px}
+    .hero-actions{margin-top:30px;display:flex;justify-content:center;gap:14px;flex-wrap:wrap}.btn{text-decoration:none;color:white;font-family:"Space Mono",monospace;font-size:13px;letter-spacing:.14em;text-transform:uppercase;border:1px solid var(--line);padding:14px 22px;transition:transform .25s ease,border-color .25s ease,box-shadow .25s ease,background .25s ease;background:rgba(255,255,255,.03)}.btn:hover{transform:translateY(-2px);border-color:rgba(255,31,91,.35);box-shadow:0 0 0 1px rgba(255,31,91,.1),0 16px 40px rgba(255,31,91,.12)}.btn-primary{background:var(--accent);border-color:var(--accent)}
+    .section{padding:0 0 92px}.section-head{display:flex;align-items:center;gap:16px;margin:0 0 26px;color:var(--muted);font-family:"Space Mono",monospace;letter-spacing:.18em;font-size:12px;text-transform:uppercase}.section-head::after{content:"";flex:1;height:1px;background:var(--line)}
+    .grid-3{display:grid;grid-template-columns:repeat(3,1fr);gap:18px}.card{border:1px solid var(--line);background:var(--panel);padding:24px;backdrop-filter:blur(10px)}.card h3{margin:0 0 10px;font-size:22px}.card p,.about-copy{color:var(--muted);line-height:1.9;font-size:15px}.about-copy{border:1px solid var(--line);background:var(--panel);padding:28px}
+    .stack-list,.project-tags{display:flex;flex-wrap:wrap;gap:10px;margin-top:14px}.chip{font-family:"Space Mono",monospace;font-size:12px;letter-spacing:.08em;text-transform:uppercase;padding:8px 10px;border:1px solid rgba(255,31,91,.18);background:rgba(255,31,91,.08);color:#ffd5e0}.project{display:flex;justify-content:space-between;align-items:flex-start;gap:22px}.project h3{color:white}.project-no{color:var(--accent);font-family:"Space Mono",monospace;letter-spacing:.12em;font-size:13px;white-space:nowrap}.footer{text-align:center;padding:0 0 42px;color:var(--muted);font-size:14px}
+    @keyframes blink{0%,100%{opacity:1}50%{opacity:0}}
+    @media (max-width:900px){.grid-3{grid-template-columns:1fr}.project{flex-direction:column}}
+    @media (max-width:640px){.shell{width:min(100% - 24px,1200px)}.hero-box{padding-inline:16px}.typing-wrap{text-align:center}.typing-line{justify-content:center}.stat{min-width:100%}}
+  </style>
+</head>
+<body>
+  <main class="shell">
+    <section class="hero" id="top">
+      <div class="hero-box">
+        <div class="eyebrow">Portfolio / Personal Site</div>
+        <h1 class="name">Oussama Touate</h1>
+        <p class="subtitle">Big Data &amp; AI Student</p>
+        <div class="typing-wrap"><div class="typing-line"><span>[</span><span id="typed-text"></span><span class="cursor" aria-hidden="true"></span></div></div>
+        <p class="hero-copy">Future machine learning engineer building stronger foundations in Python, machine learning, Git/GitHub, and real portfolio projects.</p>
+        <div class="stats-row">
+          <div class="stat"><div class="stat-label">GitHub Followers</div><div class="stat-value" id="followers-count">--</div></div>
+          <div class="stat"><div class="stat-label">Public Repos</div><div class="stat-value" id="repos-count">--</div></div>
+        </div>
+        <div class="hero-actions">
+          <a class="btn btn-primary" href="mailto:touateossama4@gmail.com">Contact Me</a>
+          <a class="btn" href="https://github.com/oussma44" target="_blank" rel="noreferrer">GitHub Profile</a>
+          <a class="btn" href="#projects">Featured Projects</a>
+        </div>
+      </div>
+    </section>
+    <section class="section" id="about"><div class="section-head">About</div><div class="about-copy">I am a Big Data &amp; AI student from Meknès, Morocco, learning step by step and turning study work into clean, professional portfolio projects. My focus is to grow from classroom knowledge into practical machine learning engineering through better workflows, stronger repos, and more polished delivery.</div></section>
+    <section class="section" id="focus"><div class="section-head">Current Focus</div><div class="grid-3">
+      <article class="card"><h3>Machine Learning</h3><p>Model evaluation, scikit-learn practice, experimentation habits, and stronger fundamentals.</p><div class="stack-list"><span class="chip">Python</span><span class="chip">scikit-learn</span><span class="chip">EDA</span></div></article>
+      <article class="card"><h3>Workflow</h3><p>Cleaner Git/GitHub pushes, better project structure, and more confidence working inside VS Code.</p><div class="stack-list"><span class="chip">Git</span><span class="chip">GitHub</span><span class="chip">VS Code</span></div></article>
+      <article class="card"><h3>Portfolio Building</h3><p>Turning learning projects into attractive, portfolio-ready work with better presentation and clarity.</p><div class="stack-list"><span class="chip">README</span><span class="chip">HTML</span><span class="chip">Projects</span></div></article>
+    </div></section>
+    <section class="section" id="projects"><div class="section-head">Featured Projects</div><div class="grid-3">
+      <article class="card project"><div><h3>House Pricing ML</h3><p>Machine learning project work focused on data exploration, feature work, training, and evaluation.</p><div class="project-tags"><span class="chip">Python</span><span class="chip">Pandas</span><span class="chip">scikit-learn</span></div></div><div class="project-no">01</div></article>
+      <article class="card project"><div><h3>Eco News</h3><p>AI-powered app setup and workflow practice with Node.js, API integration, and clean project structure.</p><div class="project-tags"><span class="chip">Node.js</span><span class="chip">API</span><span class="chip">JavaScript</span></div></div><div class="project-no">02</div></article>
+      <article class="card project"><div><h3>Econ Vibes</h3><p>Frontend project built with React, TypeScript, and Tailwind CSS to improve UI and product thinking.</p><div class="project-tags"><span class="chip">React</span><span class="chip">TypeScript</span><span class="chip">Tailwind</span></div></div><div class="project-no">03</div></article>
+    </div></section>
+    <footer class="footer">Built for Oussama Touate • Future ML Engineer</footer>
+  </main>
+  <script>
+    const phrases=['FUTURE ML ENGINEER ]','BIG DATA & AI STUDENT ]','PYTHON • MACHINE LEARNING • GITHUB ]','BUILDING REAL PORTFOLIO PROJECTS ]'];
+    const typedText=document.getElementById('typed-text');let phraseIndex=0,charIndex=0,deleting=false;
+    function tick(){const current=phrases[phraseIndex];if(!deleting){charIndex+=1;typedText.textContent=current.slice(0,charIndex);if(charIndex===current.length){deleting=true;setTimeout(tick,1200);return;}}else{charIndex-=1;typedText.textContent=current.slice(0,charIndex);if(charIndex===0){deleting=false;phraseIndex=(phraseIndex+1)%phrases.length;}}setTimeout(tick,deleting?32:54)}tick();
+    fetch('https://api.github.com/users/oussma44').then(r=>r.json()).then(data=>{document.getElementById('followers-count').textContent=typeof data.followers==='number'?data.followers:'--';document.getElementById('repos-count').textContent=typeof data.public_repos==='number'?data.public_repos:'--';}).catch(()=>{document.getElementById('followers-count').textContent='--';document.getElementById('repos-count').textContent='--';});
+  </script>
+</body>
+</html>
