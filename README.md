@@ -142,8 +142,9 @@
  
 <div align="center">
  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=f97316)](https://www.linkedin.com/in/oussama-touate-aa9761326)
 [![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=f97316)](https://mail.google.com/mail/?view=cm&to=touateossama4@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/oussma44)
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/oussama44)
  
 <br/>
  
@@ -154,4 +155,3 @@
 <div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,100:0d1117&amp;height=80&amp;section=footer&amp;fontColor=f97316"/>
 </div>
- 
