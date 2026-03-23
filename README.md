@@ -1,7 +1,7 @@
 <div align="center">
- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=120&section=header&fontColor=ffffff&fontSize=0"/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=120&section=header&fontColor=ffffff&fontSize=0" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=f97316&height=120&section=header&fontColor=ffffff&fontSize=0"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=f97316&height=120&section=header&fontColor=ffffff&fontSize=0" width="100%"/>
 </picture>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,100:0d1117&amp;height=120&amp;section=header&amp;text=OUSSAMA%20TOUATE&amp;fontSize=52&amp;fontColor=f97316&amp;animation=fadeIn&amp;fontAlignY=65&amp;desc=Big%20Data%20and%20AI%20Student%20%E2%80%94%20Becoming%20an%20ML%20Engineer&amp;descAlignY=85&amp;descSize=16&amp;descColor=888888"/>
@@ -159,7 +159,7 @@
 <div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,100:0d1117&amp;height=80&amp;section=footer&amp;fontColor=f97316"/>
  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=80&section=footer"/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=80&section=footer" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=f97316&height=80&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=f97316&height=80&section=footer" width="100%"/>
 </picture>
 </div>
