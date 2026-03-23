@@ -13,7 +13,6 @@
  
 ---
  
- 
 ## 👨‍💻 About Me
  
 <div align="center">
@@ -68,27 +67,26 @@
  
 ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=6366f1)
-![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=6366f1)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=f97316)
+![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=f97316)
 ![Bash](https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnu-bash&logoColor=white)
  
 **ML / Data Science**
  
 ![scikit-learn](https://img.shields.io/badge/Scikit--learn-0d1117?style=for-the-badge&logo=scikit-learn&logoColor=F7931E)
-![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=6366f1)
+![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=f97316)
 ![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-0d1117?style=for-the-badge&logo=jupyter&logoColor=F37626)
  
 **Frontend & Web**
  
 ![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=007ACC)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0d1117?style=for-the-badge&logo=tailwind-css&logoColor=06B6D4)
 ![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=6DA55F)
  
 **Tools & Workflow**
  
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=6366f1)
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=f97316)
 ![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
  
@@ -130,11 +128,11 @@
  
 <div align="center">
  
-![GitHub Stats](https://github-readme-stats-gamma-tan-68.vercel.app/api?username=oussma44&show_icons=true&hide_border=true&title_color=6366f1&icon_color=6366f1&text_color=ffffff&bg_color=0d1117)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=oussma44&show_icons=true&hide_border=true&title_color=f97316&icon_color=f97316&text_color=ffffff&bg_color=0d1117)
  
-![GitHub Streak](https://streak-stats.demolab.com?user=oussma44&hide_border=true&ring=6366f1&fire=6366f1&currStreakLabel=6366f1&sideLabels=ffffff&dates=ffffff&background=0D1117&stroke=6366f1&currStreakNum=ffffff&sideNums=ffffff)
+![GitHub Streak](https://streak-stats.demolab.com?user=oussma44&hide_border=true&ring=f97316&fire=f97316&currStreakLabel=f97316&sideLabels=ffffff&dates=ffffff&background=0D1117&stroke=f97316&currStreakNum=ffffff&sideNums=ffffff)
  
-![Top Languages](https://github-readme-stats-gamma-tan-68.vercel.app/api/top-langs/?username=oussma44&hide_border=true&title_color=6366f1&text_color=ffffff&bg_color=0d1117&layout=compact&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oussma44&hide_border=true&title_color=f97316&text_color=ffffff&bg_color=0d1117&layout=compact&langs_count=8)
  
 </div>
  
@@ -144,7 +142,7 @@
  
 <div align="center">
  
-[![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=6366f1)](mailto:touateossama4@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=f97316)](mailto:touateossama4@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/oussma44)
  
 <br/>
@@ -154,5 +152,5 @@
 </div>
  
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0d1117&height=80&section=footer&fontColor=6366f1"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,100:0d1117&amp;height=80&amp;section=footer&amp;fontColor=f97316"/>
 </div>
