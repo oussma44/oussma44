@@ -1,6 +1,6 @@
 <div align="center">
  
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d1117,100:0d1117&height=130&section=header&text=Oussama%20Touate&fontSize=52&fontColor=6366f1&animation=fadeIn&fontAlignY=65&desc=Big%20Data%20%26%20AI%20Student%20%E2%80%94%20Becoming%20an%20ML%20Engineer&descAlignY=85&descSize=15&descColor=94a3b8"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,50:0d1117,100:0d1117&amp;height=130&amp;section=header&amp;text=Oussama%20Touate&amp;fontSize=52&amp;fontColor=6366f1&amp;animation=fadeIn&amp;fontAlignY=65&amp;desc=Big%20Data%20%26%20AI%20Student%20%E2%80%94%20Becoming%20an%20ML%20Engineer&amp;descAlignY=85&amp;descSize=15&amp;descColor=94a3b8"/>
  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1000&color=6366f1&center=true&vCenter=true&width=680&lines=%5B+BIG+DATA+%26+AI+STUDENT+%5D;%5B+MACHINE+LEARNING+%7C+APPLIED+AI+%5D;%5B+PYTHON+%7C+SCIKIT-LEARN+%7C+PANDAS+%5D;%5B+LEARNING+IN+PUBLIC+%E2%80%94+BUILDING+IN+PRACTICE+%5D)](https://git.io/typing-svg)
  
@@ -12,6 +12,7 @@
 </div>
  
 ---
+ 
  
 ## 👨‍💻 About Me
  
