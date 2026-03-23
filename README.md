@@ -1,76 +1,157 @@
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:7c3aed,100:ec4899&height=180&section=header&text=Oussama%20Touate&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Big%20Data%20%26%20AI%20Student%20%E2%80%A2%20Future%20ML%20Engineer&descAlignY=58&descSize=18"/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=900&color=EC4899&center=true&vCenter=true&width=850&lines=Building+my+path+from+student+to+ML+Engineer;Learning+Machine+Learning+step+by+step;Improving+Git%2C+GitHub+and+deployment+workflows;Turning+notebooks+into+real+projects)](https://git.io/typing-svg)
-
-<img src="https://komarev.com/ghpvc/?username=oussma44&style=for-the-badge&color=ec4899&label=PROFILE+VIEWS" />
-<a href="https://github.com/oussma44?tab=followers">
-  <img src="https://img.shields.io/github/followers/oussma44?style=for-the-badge&color=7c3aed&labelColor=0f172a&logo=github&logoColor=white" />
-</a>
-<img src="https://img.shields.io/badge/Open%20to-Learning%20%26%20Opportunities-ec4899?style=for-the-badge&labelColor=0f172a" />
-
+ 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d1117,100:0d1117&height=130&section=header&text=Oussama%20Touate&fontSize=52&fontColor=6366f1&animation=fadeIn&fontAlignY=65&desc=Big%20Data%20%26%20AI%20Student%20%E2%80%94%20Becoming%20an%20ML%20Engineer&descAlignY=85&descSize=15&descColor=94a3b8"/>
+ 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1000&color=6366f1&center=true&vCenter=true&width=680&lines=%5B+BIG+DATA+%26+AI+STUDENT+%5D;%5B+MACHINE+LEARNING+%7C+APPLIED+AI+%5D;%5B+PYTHON+%7C+SCIKIT-LEARN+%7C+PANDAS+%5D;%5B+LEARNING+IN+PUBLIC+%E2%80%94+BUILDING+IN+PRACTICE+%5D)](https://git.io/typing-svg)
+ 
+<br/>
+ 
+![Profile Views](https://komarev.com/ghpvc/?username=oussma44&color=6366f1&style=for-the-badge&label=PROFILE+VIEWS)
+[![GitHub followers](https://img.shields.io/github/followers/oussma44?style=for-the-badge&color=6366f1&labelColor=0d1117&logo=github&logoColor=white)](https://github.com/oussma44)
+ 
 </div>
-
+ 
 ---
-
-## 👋 About Me
-
-Hi, I'm **Oussama Touate** — a **Big Data & AI student** passionate about building practical projects and growing into a strong **Machine Learning Engineer**.
-
-Right now, I’m focused on:
-
-- building a stronger foundation in **machine learning**
-- learning better **Git & GitHub workflows**
-- improving my understanding of **deployment and real project structure**
-- moving from **notebooks and learning projects** to more **production-minded work**
-
-> I’m learning in public, building step by step, and turning practice into real skill.
-
----
-
-## 🚀 What I'm Working On
-
-- studying and practicing **Machine Learning** through hands-on notebooks and projects
-- improving daily development habits in **VS Code**
-- learning cleaner **Git/GitHub end-of-day workflows**
-- exploring how to make ML projects more structured, reusable, and deployable
-
----
-
-## 🧠 Tech Stack
-
+ 
+## 👨‍💻 About Me
+ 
 <div align="center">
-
-### Languages & Core Tools
-![Python](https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/SQL-0f172a?style=for-the-badge&logo=postgresql&logoColor=336791)
-![JavaScript](https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge&logo=javascript&logoColor=f7df1e)
-![TypeScript](https://img.shields.io/badge/TypeScript-0f172a?style=for-the-badge&logo=typescript&logoColor=3178c6)
-![Git](https://img.shields.io/badge/Git-0f172a?style=for-the-badge&logo=git&logoColor=f05032)
-![GitHub](https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white)
-![VS%20Code](https://img.shields.io/badge/VS%20Code-0f172a?style=for-the-badge&logo=visual-studio-code&logoColor=007acc)
-
-### Data & Machine Learning
-![Pandas](https://img.shields.io/badge/Pandas-0f172a?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-0f172a?style=for-the-badge&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-0f172a?style=for-the-badge&logo=scikit-learn&logoColor=f7931e)
-![Jupyter](https://img.shields.io/badge/Jupyter-0f172a?style=for-the-badge&logo=jupyter&logoColor=f37626)
-
-### Frontend / Projects
-![React](https://img.shields.io/badge/React-0f172a?style=for-the-badge&logo=react&logoColor=61dafb)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-0f172a?style=for-the-badge&logo=tailwind-css&logoColor=38bdf8)
-![Node.js](https://img.shields.io/badge/Node.js-0f172a?style=for-the-badge&logo=node.js&logoColor=5fa04e)
-
+ 
+| | |
+|:---|:---|
+| 🎓 **Role** | Big Data & AI Student |
+| 📍 **Location** | Morocco |
+| 🎯 **Goal** | Become a Machine Learning Engineer |
+| 💻 **Daily Driver** | VS Code · Jupyter Notebooks |
+| 📖 **Currently Reading** | Hands-On Machine Learning (Aurélien Géron) |
+| 🌱 **Mindset** | Learning through practice, building through projects |
+| 📧 **Email** | touateossama4@gmail.com |
+ 
 </div>
-
+ 
+> *"I'm not the finished product — I'm building toward it. One project, one commit, one model at a time."*
+ 
 ---
-
-## 🎯 Current Goals for 2026
-
-```txt
-- Strengthen my ML fundamentals
-- Build better end-to-end portfolio projects
-- Improve deployment and engineering workflow habits
-- Become more confident with Git, GitHub, and collaboration
-- Grow from student projects to production-minded ML engineering
+ 
+## 🔭 Current Focus
+ 
+```
+▸ Strengthening ML foundations through practical projects
+▸ Working through Hands-On Machine Learning end to end
+▸ Improving daily Git/GitHub discipline and workflow habits
+▸ Growing from student-level code toward production-minded engineering
+▸ Exploring model deployment and full-stack AI project building
+```
+ 
+---
+ 
+## 🧠 Areas I'm Growing In
+ 
+<div align="center">
+ 
+| 🤖 Machine Learning | 📊 Data & Big Data | 🛠️ Engineering |
+|:---:|:---:|:---:|
+| Model training & evaluation | EDA and feature engineering | Git workflow & version control |
+| scikit-learn · regression · classification | Pandas · NumPy · SQL | Deployment fundamentals |
+| Hands-on notebooks & experimentation | Data engineering foundations | Full-stack project building |
+ 
+</div>
+ 
+---
+ 
+## 🛠️ Tech Stack
+ 
+<div align="center">
+ 
+**Core Languages**
+ 
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=6366f1)
+![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=6366f1)
+![Bash](https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnu-bash&logoColor=white)
+ 
+**ML / Data Science**
+ 
+![scikit-learn](https://img.shields.io/badge/Scikit--learn-0d1117?style=for-the-badge&logo=scikit-learn&logoColor=F7931E)
+![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=6366f1)
+![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-0d1117?style=for-the-badge&logo=jupyter&logoColor=F37626)
+ 
+**Frontend & Web**
+ 
+![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=007ACC)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0d1117?style=for-the-badge&logo=tailwind-css&logoColor=06B6D4)
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=6DA55F)
+ 
+**Tools & Workflow**
+ 
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=6366f1)
+![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
+ 
+</div>
+ 
+---
+ 
+## 🚀 Selected Projects
+ 
+<div align="center">
+ 
+| Project | Description | Stack |
+|:---|:---|:---:|
+| 🏠 **House Pricing ML** | End-to-end ML project — EDA, feature engineering, regression modeling and prediction | Python · scikit-learn · Pandas |
+| 🌿 **Eco News** | AI-powered news application with API integration | Node.js · JavaScript · API |
+| 📈 **Econ Vibes** | Frontend-focused economic data interface | React · TypeScript · Tailwind CSS |
+ 
+</div>
+ 
+---
+ 
+## 🗺️ My Roadmap
+ 
+```
+✅  ML fundamentals — regression, classification, model evaluation
+✅  End-to-end project workflow — EDA → feature engineering → prediction
+🔄  Hands-On Machine Learning (in progress)
+🔄  Git workflow improvement — consistent daily commits and pushes
+⬜  Deployment basics — serving models as APIs
+⬜  Deep learning foundations
+⬜  Big Data tooling — Spark, pipeline engineering
+⬜  Build a portfolio-ready ML project end to end
+⬜  First job-ready ML engineering role
+```
+ 
+---
+ 
+## 📊 GitHub Stats
+ 
+<div align="center">
+ 
+![GitHub Stats](https://github-readme-stats-gamma-tan-68.vercel.app/api?username=oussma44&show_icons=true&hide_border=true&title_color=6366f1&icon_color=6366f1&text_color=ffffff&bg_color=0d1117)
+ 
+![GitHub Streak](https://streak-stats.demolab.com?user=oussma44&hide_border=true&ring=6366f1&fire=6366f1&currStreakLabel=6366f1&sideLabels=ffffff&dates=ffffff&background=0D1117&stroke=6366f1&currStreakNum=ffffff&sideNums=ffffff)
+ 
+![Top Languages](https://github-readme-stats-gamma-tan-68.vercel.app/api/top-langs/?username=oussma44&hide_border=true&title_color=6366f1&text_color=ffffff&bg_color=0d1117&layout=compact&langs_count=8)
+ 
+</div>
+ 
+---
+ 
+## 🤝 Reach Me
+ 
+<div align="center">
+ 
+[![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=6366f1)](mailto:touateossama4@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/oussma44)
+ 
+<br/>
+ 
+*Open to collaboration, feedback, and connecting with other builders.*
+ 
+</div>
+ 
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0d1117&height=80&section=footer&fontColor=6366f1"/>
+</div>
